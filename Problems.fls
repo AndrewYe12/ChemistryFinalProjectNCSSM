@@ -623,6 +623,11 @@ INPUT ./photos/photo1.png
 INPUT photos/photo1.png
 INPUT ./photos/photo1.png
 INPUT ./photos/photo1.png
+INPUT ./photos/photo2.png
+INPUT ./photos/photo2.png
+INPUT photos/photo2.png
+INPUT ./photos/photo2.png
+INPUT ./photos/photo2.png
 INPUT Problems.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
