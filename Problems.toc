@@ -1,5 +1,5 @@
 \contentsline {section}{\numberline {1}Unit 1: Atomic Structure and Properties}{3}{}%
 \contentsline {section}{\numberline {2}Unit 2: Molecular and Ionic Compound Structure and Properties}{4}{}%
-\contentsline {section}{\numberline {3}Answers}{6}{}%
-\contentsline {subsection}{\numberline {3.1}Unit 1}{6}{}%
-\contentsline {subsection}{\numberline {3.2}Unit 2}{7}{}%
+\contentsline {section}{\numberline {3}Answers}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Unit 1}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Unit 2}{8}{}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  25 APR 2024 07:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  30 APR 2024 07:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -546,45 +546,46 @@ Package chemgreek Info: Activating mapping `default' on line 16.
 \openout4 = `Problems.toc'.
 
  [2]
+\c@yayCounter=\count320
 <photos/photo1.png, id=17, 379.4175pt x 275.0275pt>
 File: photos/photo1.png Graphic file (type png)
 <use photos/photo1.png>
-Package pdftex.def Info: photos/photo1.png  used on input line 28.
+Package pdftex.def Info: photos/photo1.png  used on input line 32.
 (pdftex.def)             Requested size: 189.70828pt x 137.51341pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--34
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
 
  []
 
 <photos/photo2.png, id=19, 482.80376pt x 300.12125pt>
 File: photos/photo2.png Graphic file (type png)
 <use photos/photo2.png>
-Package pdftex.def Info: photos/photo2.png  used on input line 42.
+Package pdftex.def Info: photos/photo2.png  used on input line 46.
 (pdftex.def)             Requested size: 241.40129pt x 150.06026pt.
 [3 <./photos/photo1.png>]
-Overfull \hbox (1.07462pt too wide) in paragraph at lines 46--46
+Overfull \hbox (1.07462pt too wide) in paragraph at lines 50--50
 []\OT1/cmr/bx/n/14.4 Unit 2: Molec-u-lar and Ionic Com-pound Struc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-[4 <./photos/photo2.png>] [5] [6] [7{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [8] (./Problems.aux) ) 
+[4 <./photos/photo2.png>] [5] [6] [7] [8{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [9] (./Problems.aux) ) 
 Here is how much of TeX's memory you used:
- 17317 strings out of 476025
- 379898 string characters out of 5790017
- 1877388 words of memory out of 5000000
- 37488 multiletter control sequences out of 15000+600000
+ 17835 strings out of 476025
+ 389510 string characters out of 5790017
+ 1909388 words of memory out of 5000000
+ 38006 multiletter control sequences out of 15000+600000
  518005 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,103p,480b,657s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,16n,103p,480b,1608s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Problems.pdf (8 pages, 178674 bytes).
+Output written on Problems.pdf (9 pages, 184358 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
