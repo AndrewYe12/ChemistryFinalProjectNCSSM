@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1714478248 "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/Problems.tex" "Problems.pdf" "Problems" 1714478251 0
-  "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/Problems.tex" 1714478248 9408 bc9283d5fdaccd748396c2c335720159 ""
+["pdflatex"] 1714565695 "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/Problems.tex" "Problems.pdf" "Problems" 1714565698 0
+  "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/Problems.tex" 1714565695 10930 e4cbfce4314251cfbbcc23007f2bcab8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -26,6 +26,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1248133631 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
@@ -138,9 +139,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684084875 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684084810 7883456 10f348a801c60b2ceb1a29c101bc64a6 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Problems.aux" 1714478251 3445 807d3089bc42c9fc2cc6d970f3367a0d "pdflatex"
-  "Problems.tex" 1714478248 9408 bc9283d5fdaccd748396c2c335720159 ""
-  "Problems.toc" 1714478251 364 b674e4f14163612cebc52c7e2342464d "pdflatex"
+  "Problems.aux" 1714565698 3446 ac3cd407068daf7d2aeb7e2f6113bef8 "pdflatex"
+  "Problems.tex" 1714565695 10930 e4cbfce4314251cfbbcc23007f2bcab8 ""
+  "Problems.toc" 1714565698 364 b674e4f14163612cebc52c7e2342464d "pdflatex"
+  "photos//photo3.png" 1714564449 47086 7a8c39b1c2eb309c0f808c9845861198 ""
   "photos/photo1.png" 1713786556 42163 ae91b535e75ea12996629fb4aac529af ""
   "photos/photo2.png" 1713873583 44185 494bf61a8f8345684c4c9dd6b7aa715d ""
   (generated)
