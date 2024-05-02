@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  2 MAY 2024 08:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  2 MAY 2024 11:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -584,17 +584,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--106
  []
 
 [6 <./photos//photo3.png>] [7] [8] [9{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 208--211
+Underfull \hbox (badness 10000) in paragraph at lines 209--212
 
  []
 
 
-Overfull \hbox (4.08392pt too wide) in paragraph at lines 216--217
+Overfull \hbox (4.08392pt too wide) in paragraph at lines 217--218
 \OT1/cmr/m/n/10 The pho-to-elec-tric ef-fect oc-curs when light of a cer-tain min-i-mum fre-quency/energy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
@@ -602,7 +602,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--222
 Here is how much of TeX's memory you used:
  17845 strings out of 476025
  389713 string characters out of 5790017
- 1909388 words of memory out of 5000000
+ 1910388 words of memory out of 5000000
  38014 multiletter control sequences out of 15000+600000
  518005 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
