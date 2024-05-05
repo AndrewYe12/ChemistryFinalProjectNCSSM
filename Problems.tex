@@ -135,6 +135,30 @@ What would be rate be in terms of each reactant and product. \\
 \ce{H2O} \hspace{0.5em} rate = 
 \ProblemSet
 If the rate of dissapearance of \ce{CH4} equals \(5.0\frac{M}{s}\) for the above reaction, what is the rate of appearance of \ce{H2O}?
+\ProblemSet
+For the above reaction, what is the reaction rate if \ce{O2} decreases from \(0.1M\) to \(0.04M\) in \(125ms\)?
+\ProblemSet
+\ce{A(aq) + 2B(aq) -> Products}
+\begin{center}
+    \begin{tabular}{||c c c c||} 
+     \hline
+     Experiment & \([A]_0\) & \([B]_0\) & Initial Rate \\ [0.5ex] 
+     \hline\hline
+     1 & \(0.10M\) & \(0.10M\) & \(1.0 \times 10^{-2}\frac{M}{s}\) \\ [1ex]
+     \hline
+     2 & \(0.3M\) & \(0.10M\) & \(9.0 \times 10^{-2}\frac{M}{s}\) \\[1ex]
+     \hline
+     3 & \(0.3M\) & \(0.15M\) & \(9.0 \times 10^{-2} \frac{M}{s}\) \\ [1ex] 
+     \hline
+    \end{tabular}
+\end{center}
+What is the rate law?
+\ProblemSet
+\ce{N2O5} decomposes by a 1st order reaction with \(k = 4.80 \times 10^{-4} \frac{1}{s}\). What is the concentration of \ce{N2O5} after \(825\) seconds if the 
+intial concentration is \(0.0165M\)? What is the half-life for this reaction?
+
+
+
 
 
 \setcounter{yayCounter}{1}
@@ -293,5 +317,32 @@ Find how much excess reactant is left over:
 \ce{H2O} \hspace{0.5em} rate = \(\frac{1}{2} \frac{\Delta [\ce{H2O}]}{\Delta t}\)
 \AnswerSet
 \(10\frac{M}{s}\)
+\AnswerSet
+\(\frac{(0.04 - 0.1)M}{125ms} \times \frac{1ms}{10^{-3}s} = -0.48 \frac{M}{s}\)\\
+rate = \(-\frac{1}{2} \times -0.48 = 0.24 \frac{M}{s}\)
+\AnswerSet
+When concentration of \(B\) is held constant and the concentration of \(A\) is tripled, the initial rate is multiplied by \(9\) so the order with respect to \(A\)
+is \(2\). The order with respect to \(B\) is \(0\) because nothing changes when the concetration is increased. Thus the rate law is 
+\begin{equation*}
+    rate = k[A]^2[B]^0 = k[A]
+\end{equation*}
+\(1.0 \times 10^{-2} = k \times 0.1^2 \implies k = 1.0 \frac{1}{ms}\), thus \(rate = [A]^2\)
+\AnswerSet
+\begin{equation*}
+    \begin{aligned}
+    ln[A]_t &= -kt + ln[A]_0 \\
+    ln[A]_t &= -(4.8 \times 10^{-4})(825) + ln(0.0165)\\
+    [A]_t = e^{-4.50} = 0.0111M 
+    \end{aligned}
+\end{equation*}
+Half-life:
+\begin{equation*}
+    \begin{aligned}
+        ln(\frac{1}{2}[A]_0) - ln[A]_0 &= -kt \\
+        ln(\frac{1}{2}) &= -kt \\
+        t &= \frac{ln(2)}{k}
+    \end{aligned}
+\end{equation*}
+
 
 \end{document}
