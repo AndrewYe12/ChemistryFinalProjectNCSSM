@@ -4,6 +4,7 @@
 \usepackage{chemformula}
 \usepackage[version=4]{mhchem}
 \usepackage{modiagram}
+\usepackage{gensymb}
 \usepackage{multirow}
 \usepackage{amsmath}
 \usepackage{lewis}
@@ -171,7 +172,22 @@ What is the net chemical reaction and predict the experimental rate law for a ch
     \end{aligned}
 \end{equation*}
 Also identify catalysts and intermediates.
-
+\ProblemSet
+Predict the experimental rate law for a chemical reaction that proceeds by the following mechanism:
+\begin{equation*}
+    \begin{aligned}
+        & \ce{2NO <=> N2O2} \hspace{1em} \text{(Fast equilibrium step)} \\
+        & \ce{N2O2 + H2 -> H2O + N2O} \hspace{1em} \text{(slow)} \\
+        & \ce{N2O + H2 -> N2 + H2O} \hspace{1em} \text{(fast)} 
+    \end{aligned}
+\end{equation*}
+\section{Unit 6: Thermodynamics}
+\ProblemSet
+It takes \(1.8\times 10^{-19}\) calories of energy to break an \chemfig{O-H} bond in water. How much energy does it take to break all of the \chemfig{O-H}
+bonds in \(50.0\) grams of water?
+\ProblemSet
+\(120.\) grams of an unknown metal at \(100.\degree C\) is dropped in a styrofoam cup  that contains \(100.0mL\) of water that is at \(20.0\deg C\). After some times,
+the final temperature of the equilibiated system is measured to be \(27.3\degree C\). What is the specific heat capacity of the metal?
 
 
 
@@ -366,6 +382,19 @@ Half-life:
 \ce{2H2O2 ->  2H2O + O2} 
 The rate determining step is the slow reaction, so \(rate = k[\ce{H2O2}][\ce{I-}]\)\\
 \ce{I-} is the catalyst. \ce{IO-} is the intermediate. 
+\AnswerSet
+Overall: \(\ce{2NO + 2H2 -> 2H2O + N2} \)\\
+Rate determining step: \(rate = k[\ce{N2O2}][\ce{H2}]\) \\
+Fast equilbium: \(\text{rate forward} = \text{rate back} \implies [\ce{N2O2}] = \frac{k_f}{k_r}[\ce{NO}]^2\) \\
+Thus, \(rate = \frac{kk_f}{k_r}[\ce{NO}]^2[\ce{H2}]\)
+\subsection{Unit 6: Thermodynamics}
+\AnswerSet
+\(50g\ce{H2O}\times \frac{1mol\ce{H2O}}{18.01g\ce{H2O}} \times \frac{6.022\times 10^{23}\ce{H2O}}{1mol\ce{H2O}} \times \frac{2\ce{O-H}}{1\ce{H2O}} 
+\times \frac{1.8 \times 10^{-9}cal}{1\ce{O-H}} \times \frac{4.184J}{1cal}\times\frac{1kJ}{10^3J} = 2500kJ\)
+\AnswerSet
+\(q_{water} = 7.3 \times 100 \times 4.184\) \\
+\(q_{water} = -q_{metal}\)\\
+\(q_{metal} = C_{metal} (27.3-100)*120 \implies C_{metal} = 0.350 \frac{J}{g\degree C}\)
 
 
 \end{document}

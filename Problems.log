@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  6 MAY 2024 07:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  7 MAY 2024 09:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -492,6 +492,8 @@ Package: modiagram 2020/11/08 v0.3a easy creation of molecular orbital diagrams
 \l__modiagram_AO_pz_shift_dim=\dimen343
 \g__modiagram_AO_name_int=\count312
 \l_energy_axis_dim=\dimen344
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/gensymb/gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip75
@@ -503,20 +505,20 @@ Package: lewis 2006/05/22 v0.1 Draw Lewis Structures
 ) (./Problems.aux)
 \openout1 = `Problems.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count314
@@ -537,8 +539,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 
-Package chemgreek Info: Activating mapping `default' on line 16.
+Package chemgreek Info: Activating mapping `default' on line 17.
 
+\symgns@font=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 17.
+Package gensymb Info: Math companion symbols declared on input line 17.
+LaTeX Info: Redefining \degree on input line 17.
+LaTeX Info: Redefining \celsius on input line 17.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 17.
+LaTeX Info: Redefining \ohm on input line 17.
+Package gensymb Info: Using \textohm for \ohm on input line 17.
+Package gensymb Info: Using \textmu for \micro on input line 17.
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Problems.toc)
@@ -550,25 +562,25 @@ Package chemgreek Info: Activating mapping `default' on line 16.
 <photos/photo1.png, id=17, 379.4175pt x 275.0275pt>
 File: photos/photo1.png Graphic file (type png)
 <use photos/photo1.png>
-Package pdftex.def Info: photos/photo1.png  used on input line 32.
+Package pdftex.def Info: photos/photo1.png  used on input line 33.
 (pdftex.def)             Requested size: 189.70828pt x 137.51341pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
 
  []
 
 <photos/photo2.png, id=19, 482.80376pt x 300.12125pt>
 File: photos/photo2.png Graphic file (type png)
 <use photos/photo2.png>
-Package pdftex.def Info: photos/photo2.png  used on input line 46.
+Package pdftex.def Info: photos/photo2.png  used on input line 47.
 (pdftex.def)             Requested size: 241.40129pt x 150.06026pt.
 [3 <./photos/photo1.png>]
-Overfull \hbox (1.07462pt too wide) in paragraph at lines 50--50
+Overfull \hbox (1.07462pt too wide) in paragraph at lines 51--51
 []\OT1/cmr/bx/n/14.4 Unit 2: Molec-u-lar and Ionic Com-pound Struc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
@@ -576,42 +588,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 <./photos//photo3.png, id=33, 479.7925pt x 174.6525pt>
 File: ./photos//photo3.png Graphic file (type png)
 <use ./photos//photo3.png>
-Package pdftex.def Info: ./photos//photo3.png  used on input line 99.
+Package pdftex.def Info: ./photos//photo3.png  used on input line 100.
 (pdftex.def)             Requested size: 239.89565pt x 87.32603pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--106
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
 
  []
 
-[6 <./photos//photo3.png>] [7] [8] [9] [10{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 269--272
+[6 <./photos//photo3.png>] [7] [8] [9{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 285--288
 
  []
 
 
-Overfull \hbox (4.08392pt too wide) in paragraph at lines 277--278
+Overfull \hbox (4.08392pt too wide) in paragraph at lines 293--294
 \OT1/cmr/m/n/10 The pho-to-elec-tric ef-fect oc-curs when light of a cer-tain min-i-mum fre-quency/energy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
  []
 
-[12] [13] [14] [15] (./Problems.aux) ) 
+[13] [14] [15] [16] (./Problems.aux) ) 
 Here is how much of TeX's memory you used:
- 17845 strings out of 476025
- 389713 string characters out of 5790017
+ 17925 strings out of 476025
+ 391079 string characters out of 5790017
  1910388 words of memory out of 5000000
- 38014 multiletter control sequences out of 15000+600000
- 518005 words of font info for 52 fonts, out of 8000000 for 9000
+ 38085 multiletter control sequences out of 15000+600000
+ 519697 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,17n,103p,480b,1608s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Problems.pdf (15 pages, 258464 bytes).
+ 99i,21n,103p,480b,1608s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on Problems.pdf (16 pages, 267675 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 142 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
