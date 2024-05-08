@@ -1,0 +1,310 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  8 MAY 2024 18:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**subfiles/Problems.tex
+(./subfiles/Problems.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/subfiles/subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../main.tex'
+(/usr/local/texlive/2023/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+)
+
+! LaTeX Error: File `../main.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: ^^[^^[^^[
+! Interruption.
+<to be read again> 
+                   }
+l.45 \input{\preamble@file}
+                           ^^M
+? 
+! Missing endcsname inserted.
+<to be read again> 
+                   MessageBreak 
+l.45 \input{\preamble@file}
+                           
+? 
+! Argument of __file_name_expand_cleanup:Nw has an extra }.
+<inserted text> 
+                par 
+l.45 \input{\preamble@file}
+                           
+? 
+Runaway argument?
+MessageBreak not set up for use with LaTeX
+! Paragraph ended before __file_name_expand_cleanup:Nw was complete.
+<to be read again> 
+                   par 
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Interruption.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+? 
+! Emergency stop.
+<argument> ???  
+                ! LaTeX Error: Missing \endcsname inserted in filename.
+l.45 \input{\preamble@file}
+                           
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 85 strings out of 476025
+ 2007 string characters out of 5790017
+ 1849388 words of memory out of 5000000
+ 20624 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,0n,56p,208b,18s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
