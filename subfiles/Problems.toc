@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Unit 1: Atomic Structure and Properties}{3}{}%
+\contentsline {section}{\numberline {2}Unit 2: Molecular and Ionic Compound Structure and Properties}{4}{}%
+\contentsline {section}{\numberline {3}Unit 3: Intermolecular Forces and Properties}{6}{}%
+\contentsline {section}{\numberline {4}Unit 4: Chemical Reactions}{7}{}%
+\contentsline {section}{\numberline {5}Unit 5: Kinetics}{7}{}%
+\contentsline {section}{\numberline {6}Unit 6: Thermodynamics}{9}{}%
