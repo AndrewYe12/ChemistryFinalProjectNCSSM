@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1715131757 "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/subfiles/Answers.tex" "subfiles/Answers.pdf" "Answers" 1715131760 0
-  "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/subfiles/Answers.tex" 1715131753 11737 f875787408aa7024eed15f21177161d0 ""
+["pdflatex"] 1715131921 "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/subfiles/Answers.tex" "subfiles/Answers.pdf" "Answers" 1715131924 0
+  "/Users/andrewye/Desktop/NCSSM/Chemistry/FinalProj/subfiles/Answers.tex" 1715131921 11678 9e36031ebd818199b66eb784df2bc6a2 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1136768653 1536 b3387106d9afecbfe14bde2de6eadf47 ""
@@ -137,9 +137,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684084875 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684084810 7883456 10f348a801c60b2ceb1a29c101bc64a6 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "subfiles/../main.tex" 1715131705 487 a8ac5441a98e456ec8031a9b1bc5e120 ""
-  "subfiles/Answers.aux" 1715131760 2573 0abab413a82513ac13dd4682814a7ec1 "pdflatex"
-  "subfiles/Answers.tex" 1715131753 11737 f875787408aa7024eed15f21177161d0 ""
+  "subfiles/../main.tex" 1715131806 487 a8ac5441a98e456ec8031a9b1bc5e120 ""
+  "subfiles/Answers.aux" 1715131924 2573 0abab413a82513ac13dd4682814a7ec1 "pdflatex"
+  "subfiles/Answers.tex" 1715131921 11678 9e36031ebd818199b66eb784df2bc6a2 ""
   (generated)
   "subfiles/Answers.aux"
   "subfiles/Answers.log"

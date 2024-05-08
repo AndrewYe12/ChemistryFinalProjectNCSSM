@@ -4,3 +4,4 @@
 \contentsline {section}{\numberline {4}Unit 4: Chemical Reactions}{7}{}%
 \contentsline {section}{\numberline {5}Unit 5: Kinetics}{7}{}%
 \contentsline {section}{\numberline {6}Unit 6: Thermodynamics}{9}{}%
+\contentsline {section}{\numberline {7}Unit 7 Equilibrium}{10}{}%
