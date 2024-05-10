@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  9 MAY 2024 20:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.14)  10 MAY 2024 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -774,16 +774,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--107
 
  []
 
-[6 <./photos//photo3.png>] [7] [8] [9{/usr/local/texlive/2023/texmf-dist/fonts/
-enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (19.51442pt too wide) in paragraph at lines 213--214
+[6 <./photos//photo3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+
+ []
+
+[7] [8] [9] [10{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-
+super-ts1.enc}]
+Overfull \hbox (19.51442pt too wide) in paragraph at lines 240--241
 \OT1/cmr/m/n/10 What is the con-cen-tra-tion equi-lib-rium con-stant for the re
 -ac-tion $[]$ $[][][]$ + $[] [][][]$$[][][]$$[] []
  []
 
-[10]) (./subfiles/Answers.tex
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 265--269
+
+ []
+
+[13]) (./subfiles/Answers.tex
 \c@nooCounter=\count339
- [11] [12] [13] [14]
+ [14] [15] [16] [17]
 Underfull \hbox (badness 10000) in paragraph at lines 109--112
 
  []
@@ -794,40 +804,40 @@ Overfull \hbox (4.08392pt too wide) in paragraph at lines 117--118
 in-i-mum fre-quency/energy
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
-[15] [16] [17] [18] [19]) [20] (./main.aux) ) 
+[19] [20] [21] [22] [23] [24]) [25] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 18248 strings out of 476025
- 397351 string characters out of 5790017
+ 18402 strings out of 476025
+ 400353 string characters out of 5790017
  1910388 words of memory out of 5000000
- 38386 multiletter control sequences out of 15000+600000
+ 38540 multiletter control sequences out of 15000+600000
  519697 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,21n,103p,426b,1702s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-
-super/sfrm0700.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-su
-per/sfrm1000.pfb>
-Output written on main.pdf (20 pages, 282349 bytes).
+</usr/local/texlive/2023/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
+c/cm-super/sfrm0700.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
+cm-super/sfrm1000.pfb>
+Output written on main.pdf (25 pages, 293788 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+ 172 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

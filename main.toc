@@ -2,15 +2,18 @@
 \contentsline {section}{\numberline {2}Unit 2: Molecular and Ionic Compound Structure and Properties}{4}{}%
 \contentsline {section}{\numberline {3}Unit 3: Intermolecular Forces and Properties}{6}{}%
 \contentsline {section}{\numberline {4}Unit 4: Chemical Reactions}{7}{}%
-\contentsline {section}{\numberline {5}Unit 5: Kinetics}{7}{}%
-\contentsline {section}{\numberline {6}Unit 6: Thermodynamics}{9}{}%
-\contentsline {section}{\numberline {7}Unit 7: Equilibrium}{10}{}%
-\contentsline {section}{\numberline {8}Unit 8: Acids and Bases}{11}{}%
-\contentsline {section}{\numberline {9}Answers}{12}{}%
-\contentsline {subsection}{\numberline {9.1}Unit 1}{12}{}%
-\contentsline {subsection}{\numberline {9.2}Unit 2}{13}{}%
-\contentsline {subsection}{\numberline {9.3}Unit 3}{14}{}%
-\contentsline {subsection}{\numberline {9.4}Unit 4}{15}{}%
-\contentsline {subsection}{\numberline {9.5}Unit 6}{18}{}%
-\contentsline {subsection}{\numberline {9.6}Unit 7}{19}{}%
-\contentsline {subsection}{\numberline {9.7}Unit 8}{20}{}%
+\contentsline {section}{\numberline {5}Unit 5: Kinetics}{9}{}%
+\contentsline {section}{\numberline {6}Unit 6: Thermodynamics}{10}{}%
+\contentsline {section}{\numberline {7}Unit 7: Equilibrium}{11}{}%
+\contentsline {section}{\numberline {8}Unit 8: Acids and Bases}{13}{}%
+\contentsline {section}{\numberline {9}Unit 9: Applications of Thermodynamics}{14}{}%
+\contentsline {section}{\numberline {10}Answers}{15}{}%
+\contentsline {subsection}{\numberline {10.1}Unit 1}{15}{}%
+\contentsline {subsection}{\numberline {10.2}Unit 2}{16}{}%
+\contentsline {subsection}{\numberline {10.3}Unit 3}{17}{}%
+\contentsline {subsection}{\numberline {10.4}Unit 4}{19}{}%
+\contentsline {subsection}{\numberline {10.5}Unit 5}{20}{}%
+\contentsline {subsection}{\numberline {10.6}Unit 6}{22}{}%
+\contentsline {subsection}{\numberline {10.7}Unit 7}{23}{}%
+\contentsline {subsection}{\numberline {10.8}Unit 8}{24}{}%
+\contentsline {subsection}{\numberline {10.9}Unit 9}{25}{}%
